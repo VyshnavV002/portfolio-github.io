@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&family=Roboto:ital,wght@1,500&display=swap');
+
+.wrapper{
+    background-color: #cbadf0;
+    padding:90px;
+}
+.main{
+    background-color: #d5caed;
+    margin:5% 5% 5% 5%;
+    padding-bottom:70px;
+    padding-right:40px;
+}
+.labels{
+    display:flex;
+
+}
+#left-content{
+    color:#2540c4;
+    font-family: 'Roboto', sans-serif;
+    
+    font-size:25px;
+    text-align: start;
+}
+.right-content{
+    display:flex;
+    justify-content:flex-end;
+    margin-left:72%;
+}
+#image-content{
+    width:55%;
+    border-radius : 1100px;
+    margin-left:70px;
+}
+#image{
+ margin-left:20%;
+ padding-left:130px;
+}
+.contents{
+    display:flex;
+    justify-content: space-between;
+    margin-top:90px;
+    margin-left:90px;
+    
+}
+#home{
+    margin-left:20px;
+
+}
+#about{
+    margin-left:20px;
+}
+#skills{
+    margin-left:20px;
+}
+#contact{
+  margin-left:20px;
+}
+#sub-content{
+   font-size:30px;
+   font-family: 'Roboto', sans-serif;
+   width:40%;
+}
+span{
+    color:#cb58e8;
+}
+a{
+    text-decoration: none;
+    font-size:18px;
+    color:#050505;
+}
+.contents-about{
+    font-size:18px;
+    margin:20px;
+}
+#head{
+   color:#5066d4;
+}
+.location{
+    margin:20px;
+}
+#loco{
+    color:#5066d4;
+}
+a:hover{
+    color:#5066d4;
+}
+a:visited{
+    color:#d40831;
+}
